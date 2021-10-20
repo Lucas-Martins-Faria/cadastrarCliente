@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">cadastrarCliente</string>
+    <string name="btnInserir">Inserir</string>
+    <string name="txtListaCliente">Lista de clientes</string>
+
+
+    <string name="txt">Cliente</string>
+    <string name="btnGravar">Gravar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="txtCodigo">Código</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtObs">Observação</string>
+
+
 </resources>
